@@ -1,6 +1,6 @@
-# 2016/2 Machine Learning
+# 2018/1 Machine Learning
 
-## 2016 - Semestre II - Universidad Industrial de Santander
+## 2018 - Semestre I - Universidad Industrial de Santander
 
 _Regístrate [aquí](https://docs.google.com/forms/d/e/1FAIpQLSekLcDmMN8n2o4U5wmaXK4wpcK-EqaAW2atfWFiTVO_5dM-kQ/viewform)_
 
