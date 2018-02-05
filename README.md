@@ -1,8 +1,32 @@
-# 2016/2 Machine Learning
+# 2018/1 Machine Learning
 
-## 2016 - Semestre II - Universidad Industrial de Santander
+## 2018 - Semestre I - Universidad Industrial de Santander
 
 _Regístrate [aquí](https://docs.google.com/forms/d/e/1FAIpQLSekLcDmMN8n2o4U5wmaXK4wpcK-EqaAW2atfWFiTVO_5dM-kQ/viewform)_
+
+## Máquina Virtual
+
+Usaremos esta máquina virtual que tiene instalado un entorno Python Anaconda con Jupyter Notebooks disponibles en  [localhost:8008/tree](http://localhost:8008/tree) una vez que la máquina arranca.
+
+**Observa la configuración de la máquina**
+
+- Si tu máquina física tiene al menos 4GB de memoria configura la máquina virtual **con 2GB de memoria**
+- Aunque casi no necesitarás un terminal, el interfaz de Jupyter Notebooks tiene un terminal para acceder a través del navegador. En cualquier caso, la máquina virtual tiene un servidor SSH en el puerto 2222 con user/user como usuario y pwd. Si tu máquina física es mac o linux usa `ssh -p 2222 user@localhost` para conectarte. Si es windows, usa [putty](https://www.putty.org/)
+- Si compartes una carpeta entre la física y virtual asegúrate que **el nombre cone el que se comparte** sea `share` (aunque el nombre de la carpeta en la máquina física puede ser distinto)
+
+**Para montar la carpeta compartida** ejecuta lo siguiente en un terminal y la carpeta aparecerá en /home/user/share:
+
+    sudo mount share
+
+**Si la máquina arranca en modo mantenimiento**, edita el fichero `/etc/fstab` como `root`:
+
+    sudo nano /etc/fstab
+    
+y añade `auto,nofail` a la linea con la definicin de `share` para que quede así
+
+    share                                     /home/user/share vboxsf uid=1000,rw,auto,x-systemd.automount 0 1
+
+
 
 ### Calificación
 
