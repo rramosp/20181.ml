@@ -59,9 +59,9 @@ Criterios de evaluación: 1) Complejidad de la tarea, 2) Compleción 3) Claridad
                        SESSION 1     SESSION 2     STUDENT DEADLINES
     W05 Ene29-Feb02    INTRO         1.MATH
     W06 Feb05-Feb09    2.LINREG      PSETS
-    W07 Feb12-Feb16    3.LOGREG      PSETS         Feb 18 PSETS 1 2 3
-    W08 Feb19-Feb23    QUIZPREP      QUIZ      
-    W09 Feb26-Mar02    PROJECT       PROJECT       Mar 04 PROJECT DATASET
+    W07 Feb12-Feb16    3.LOGREG      PSETS         
+    W08 Feb19-Feb23    PROJECT       PROJECT       Feb 25 PSETS 1 2 3
+    W09 Feb26-Mar02    QUIZPREP      QUIZ         Mar 04 PROJECT DATASET
     W10 Mar05-Mar09    4.NEURAL      PSETS
     W11 Mar12-Mar16    5.REGPE       PSETS
     W12 Mar19-Mar23    PROJECT       PROJECT
