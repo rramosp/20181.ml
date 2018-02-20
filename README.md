@@ -4,6 +4,11 @@
 
 _Regístrate [aquí](https://docs.google.com/forms/d/e/1FAIpQLSekLcDmMN8n2o4U5wmaXK4wpcK-EqaAW2atfWFiTVO_5dM-kQ/viewform)_
 
+## Reference MOOCs
+
+- [EDX Machine Learning Fundamentals UCSanDiegoX: DSE220x](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DS220x+1T2018/course/) 10 semanas
+- [UDACITY Google Deep Learning Course](https://classroom.udacity.com/courses/ud730) 7 lecciones
+
 ## Máquina Virtual
 
 Usaremos esta máquina virtual que tiene instalado un entorno Python Anaconda con Jupyter Notebooks disponibles en  [localhost:8008/tree](http://localhost:8008/tree) una vez que la máquina arranca.
