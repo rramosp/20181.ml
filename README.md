@@ -4,6 +4,8 @@
 
 _Regístrate [aquí](https://docs.google.com/forms/d/e/1FAIpQLSekLcDmMN8n2o4U5wmaXK4wpcK-EqaAW2atfWFiTVO_5dM-kQ/viewform)_
 
+
+
 ## Reference MOOCs
 
 - [EDX Machine Learning Fundamentals UCSanDiegoX: DSE220x](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DS220x+1T2018/course/) 10 semanas
@@ -25,14 +27,14 @@ _Regístrate [aquí](https://docs.google.com/forms/d/e/1FAIpQLSekLcDmMN8n2o4U5wm
 
 - Las entregas re realizarán en el Dropbox compartido con cada alumno
 - Cada entrega deberá de constar de:
-   - un archivo **en formato PDF** llamado **EDX_01.PDF** o **UDACITY_01.PDF** según el curso que hayas escogido (edx_02.pdf para la entrega 2, etc.) con la evidencia de la realización de la parte correspondiente del MOOC (pantallazos, resúmenes, calificaciones, etc.)
-   - un archivo **en formato ZIP** llamado **EDX_01.ZIP** o **UDACITY_01.ZIP** (edx_02.zip, etc.) con los materiales que tuviste que desarrollar durante las lecciones correspondientes a la entrega (código, binarios, docs, etc.)
+
+  - un archivo **en formato PDF** llamado **EDX_01.PDF** o **UDACITY_01.PDF** según el curso que hayas escogido (edx_02.pdf para la entrega 2, etc.) con la evidencia de la realización de la parte correspondiente del MOOC (pantallazos, resúmenes, calificaciones, etc.)
+  - un archivo **en formato ZIP** llamado **EDX_01.ZIP** o **UDACITY_01.ZIP** (edx_02.zip, etc.) con los materiales que tuviste que desarrollar durante las lecciones correspondientes a la entrega (código, binarios, docs, etc.)
 
 - En cada entrega se valorará:
 
-   - 50% COMPLETUD, si la entrega contiene todas las lecciones requeridas
-   
-   - 50% CLARIDAD, si el PDF describe claramente lo realizado complementando con explicación del estudiante los pantallazos y evidencia incluida en el mismo, y si el ZIP contiene los materiales de manera organizada (en directorios, READMEs, etc.)
+  - 50% COMPLETUD, si la entrega contiene todas las lecciones requeridas
+  - 50% CLARIDAD, si el PDF describe claramente lo realizado complementando con explicación del estudiante los pantallazos y evidencia incluida en el mismo, y si el ZIP contiene los materiales de manera organizada (en directorios, READMEs, etc.)
 
 ### Calificación del curso
 
