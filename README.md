@@ -9,6 +9,42 @@ _Regístrate [aquí](https://docs.google.com/forms/d/e/1FAIpQLSekLcDmMN8n2o4U5wm
 - [EDX Machine Learning Fundamentals UCSanDiegoX: DSE220x](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DS220x+1T2018/course/) 10 semanas
 - [UDACITY Google Deep Learning Course](https://classroom.udacity.com/courses/ud730) 7 lecciones
 
+### Entregas parciales reference MOOC
+
+                       Curso EDX         Curso UDACITY
+    Entrega 1, Mar 30: Semanas 1,2,3     Lecciones 1,2
+    Entrega 2, Abr 27: Semanas 4,5,6     Lecciones 3,4,5
+    Entrega 3, May 27: Semanas 7,8,9,10  Lecciones 6,7,8
+
+    Mar09 - Registro primera calificación
+    Mar11 - Último día cancelación materias
+    May28-Jun06 Evaluaciones finales
+    Jun08 - Registro calificaciones finales
+
+### Instrucciones entregas parciales
+
+- Las entregas re realizarán en el Dropbox compartido con cada alumno
+- Cada entrega deberá de constar de:
+   - un archivo **en formato PDF** llamado **EDX_01.PDF** o **UDACITY_01.PDF** según el curso que hayas escogido (edx_02.pdf para la entrega 2, etc.) con la evidencia de la realización de la parte correspondiente del MOOC (pantallazos, resúmenes, calificaciones, etc.)
+   - un archivo **en formato ZIP** llamado **EDX_01.ZIP** o **UDACITY_01.ZIP** (edx_02.zip, etc.) con los materiales que tuviste que desarrollar durante las lecciones correspondientes a la entrega (código, binarios, docs, etc.)
+
+- En cada entrega se valorará:
+
+   - 50% COMPLETUD, si la entrega contiene todas las lecciones requeridas
+   - 50% CLARIDAD, si el PDF describe claramente lo realizado complementando con explicación del estudiante los pantallazos y evidencia incluida en el mismo, y si el ZIP contiene los materiales de manera organizada (en directorios, READMEs, etc.)
+
+### Calificación del curso
+
+    Problemsets 1 2 3    15%
+    Quiz 1               10%
+    MOOC Entrega 1       25%
+    MOOC Entrega 2       25%
+    MOOC Entrega 3       25%
+  
+  
+---
+# Programación original del curso
+
 ## Máquina Virtual
 
 Usaremos esta máquina virtual que tiene instalado un entorno Python Anaconda con Jupyter Notebooks disponibles en  [localhost:8008/tree](http://localhost:8008/tree) una vez que la máquina arranca.
@@ -30,7 +66,6 @@ Usaremos esta máquina virtual que tiene instalado un entorno Python Anaconda co
 y actualiza la linea con la definición de `share` para que quede así
 
     share                                     /home/user/share vboxsf uid=1000,rw,auto,x-systemd.automount 0 1
-
 
 
 ### Calificación
