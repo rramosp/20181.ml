@@ -31,6 +31,7 @@ _Regístrate [aquí](https://docs.google.com/forms/d/e/1FAIpQLSekLcDmMN8n2o4U5wm
 - En cada entrega se valorará:
 
    - 50% COMPLETUD, si la entrega contiene todas las lecciones requeridas
+   
    - 50% CLARIDAD, si el PDF describe claramente lo realizado complementando con explicación del estudiante los pantallazos y evidencia incluida en el mismo, y si el ZIP contiene los materiales de manera organizada (en directorios, READMEs, etc.)
 
 ### Calificación del curso
