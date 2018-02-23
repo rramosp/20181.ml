@@ -25,7 +25,7 @@ _Regístrate [aquí](https://docs.google.com/forms/d/e/1FAIpQLSekLcDmMN8n2o4U5wm
 
 ### Instrucciones entregas parciales
 
-- Las entregas re realizarán en el Dropbox compartido con cada alumno
+- Las entregas se realizarán en el Dropbox compartido con cada alumno
 - Cada entrega deberá de constar de:
 
   - un archivo **en formato PDF** llamado **EDX_01.PDF** o **UDACITY_01.PDF** según el curso que hayas escogido (edx_02.pdf para la entrega 2, etc.) con la evidencia de la realización de la parte correspondiente del MOOC (pantallazos, resúmenes, calificaciones, etc.)
