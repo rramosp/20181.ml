@@ -14,7 +14,7 @@ _Regístrate [aquí](https://docs.google.com/forms/d/e/1FAIpQLSekLcDmMN8n2o4U5wm
 ### Entregas parciales reference MOOC
 
                        Curso EDX         Curso UDACITY
-    Entrega 1, Mar 30: Semanas 1,2,3     Lecciones 1,2
+    Entrega 1, Abr  6: Semanas 1,2,3     Lecciones 1,2
     Entrega 2, Abr 27: Semanas 4,5,6     Lecciones 3,4,5
     Entrega 3, May 27: Semanas 7,8,9,10  Lecciones 6,7,8
 
